@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><img height="180em" src="https://github-readme-stats.vercel.app/api?username=arya-vats&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+!--START_SECTION:waka-->
+
+```text
+JavaScript   9 hrs 17 mins   ████████████████████▒░░░░   81.62 %
+TypeScript   2 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+```
+
+<!--END_SECTION:waka-->
