@@ -1,5 +1,11 @@
-### Hi there 👋 I'm Arya 
+### Hi there 👋  I'm Arya 😀
 
+- 🤓 Mern Stack Developer 
+- 😇 Open Source Conributor
+- 😇 SD Intern @Prosperix-Crowdstaffing
+- 🚀 Loves Aviation
+- 🏋️‍♂️ Fitness Enthusiast
+- ✏️ Avid Sketch Lover
 <!--
 **arya-vats/arya-vats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,12 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anshuman-dhiman&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-!--START_SECTION:waka-->
-
-```text
-JavaScript   9 hrs 17 mins   ████████████████████▒░░░░   81.62 %
-TypeScript   2 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-```
-
-<!--END_SECTION:waka-->
+<a href="https://www.linkedin.com/in/arya-v-006325132/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a> <a href="https://www.Instagram.com/anshuman.dhiman.359/"><img src="https://img.icons8.com/cute-clipart/64/000000/Instagram.png"/></a>
