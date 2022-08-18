@@ -46,6 +46,5 @@ Here are some ideas to get you started:
 </p>
 
 <a href="https://www.linkedin.com/in/arya-v-006325132/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
-(http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-https://github-readme-streak-stats.herokuapp.com/?user=arya-vats
+
 
