@@ -6,6 +6,10 @@
 - 🚀 Loves Aviation
 - 🏋️‍♂️ Fitness Enthusiast
 - ✏️ Avid Sketch Lover
+
+
+![](https://github.com/arya-vats/stats/blob/master/generated/languages.svg)
+![](https://github.com/arya-vats/stats/blob/master/generated/overview.svg)
 <!--
 **arya-vats/arya-vats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
