@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/arya-v-006325132/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 
 
-![](https://raw.githubusercontent.com/arya-vats/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arya-vats)]
 
 
