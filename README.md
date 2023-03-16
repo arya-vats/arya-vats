@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arya-vats)]
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arya-vats)](https://github.com/arya-vats/github-readme-stats)
 
 
