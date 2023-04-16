@@ -2,7 +2,6 @@
 
 - 🤓 Mern Stack Developer 
 - 😇 Open Source Contributor
-- 😇 Junior Software Engineer @Prosperix-Crowdstaffing
 - 🚀 Loves Aviation
 - 🏋️‍♂️ Fitness Enthusiast
 - ✏️ Avid Sketch Lover
