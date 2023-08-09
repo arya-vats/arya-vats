@@ -5,7 +5,7 @@
 - 🚀 Loves Aviation
 - 🏋️‍♂️ Fitness Enthusiast
 - ✏️ Avid Sketch Lover
-
+- Exploring Magic of flutter
 <!--
 **arya-vats/arya-vats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
