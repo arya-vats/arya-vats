@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arya-vats&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+
 [![](https://visitcount.itsvg.in/api?id=arya-vats&icon=0&color=0)](https://visitcount.itsvg.in)
    
 <a href="https://www.linkedin.com/in/arya-v-006325132/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
