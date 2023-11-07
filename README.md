@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Arya 😀
 
-- 🤓 Mern Stack Developer 
+- 🤓 Full Stack Developer 
 - 😇 Open Source Contributor
 - 🚀 Loves Aviation
 - 🏋️‍♂️ Fitness Enthusiast
