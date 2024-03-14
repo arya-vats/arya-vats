@@ -2,10 +2,10 @@
 
 - 🤓 Full Stack Developer 
 - 😇 Open Source Contributor
-- 🚀 Loves Aviation
+- 🚀 Love Aviation
 - 🏋️‍♂️ Fitness Enthusiast
-- ✏️ Avid Sketch Lover
-- Exploring Magic of flutter
+- 🎨 Avid Sketch Lover
+- ✨ Exploring Magic of flutter
 
 
 
