@@ -12,7 +12,9 @@
 - 🔭 I’m currently working on python
 - 🌱 I’m currently learning system design and architecture
 - 💬 Ask me about python, django, cybersecurity
-- 📫 How to reach me: You can reach out to me via linkedIn/email. 
+- 📫 How to reach me: You can reach out to me via linkedIn/email.
+
+[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-vats&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -27,5 +29,6 @@
    
 <a href="https://www.linkedin.com/in/arya-v-006325132/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 <a href="https://arya-vats.github.io/arya_portfolio/"><img src="https://img.icons8.com/2266EE/search"/>
+
 
 
