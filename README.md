@@ -14,7 +14,7 @@
 - 💬 Ask me about python, django, cybersecurity
 - 📫 How to reach me: You can reach out to me via linkedIn/email.
 
-[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-vats&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arya-vats&include_all_commits=true&theme=aura)
 
 
 
