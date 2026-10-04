@@ -80,4 +80,4 @@ Alongside industry work, I'm pursuing an **M.Tech in AI** at MANIT Bhopal, with 
 
 Open source contributor · Aviation enthusiast · Fitness · Sketching
 
-<p align="center"><i>Open to conversations about payments infrastructure, backend architecture, and applied AI — reach out on LinkedIn.</i></p>
+<p align="center"><i>Open to conversations about payments infrastructure, backend architecture, and applied AI. Reach out on LinkedIn.</i></p>
